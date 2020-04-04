@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# Demo
+![](https://github.com/naiduasn/expenses_app/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-04-05%20at%2000.41.40.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
